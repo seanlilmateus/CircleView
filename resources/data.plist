@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Laurent Sansonetti, @lrz</string>
+		<key>image</key>
+		<string>1.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Patrick Thomson, @importantshock</string>
+		<key>image</key>
+		<string>2.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Matt Aimonetti, @merbist</string>
+		<key>image</key>
+		<string>3.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Vincent Isambart, @vincentisambart</string>
+		<key>image</key>
+		<string>4.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Eloy Durán, @alloy</string>
+		<key>image</key>
+		<string>5.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Rich Kilmer, @rich_kilmer</string>
+		<key>image</key>
+		<string>6.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Benjamin Stiglitz, @benstiglitz</string>
+		<key>image</key>
+		<string>7.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Thibault ML, @naixn</string>
+		<key>image</key>
+		<string>8.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Joshua Ballanco, @manhattanmetric</string>
+		<key>image</key>
+		<string>9.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Mark Rada, @ferrous26</string>
+		<key>image</key>
+		<string>10.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Watson, @watson1978</string>
+		<key>image</key>
+		<string>11.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Marcos Villacampa, @MarkVillacampa</string>
+		<key>image</key>
+		<string>12.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sean Mateus, @seanlilmateus</string>
+		<key>image</key>
+		<string>13.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Satoshi Nakagawa, @Psychs</string>
+		<key>image</key>
+		<string>14.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Kouji Takao, @takaokouji_en</string>
+		<key>image</key>
+		<string>15.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>RubyMotion, @RubyMotion</string>
+		<key>image</key>
+		<string>16.png</string>
+	</dict>
+</array>
+</plist>
