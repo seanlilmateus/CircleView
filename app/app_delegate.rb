@@ -7,6 +7,3 @@ class AppDelegate
     true
   end
 end
-
-
-# https://github.com/bharath2020/UITableViewTricks/blob/master/CircleView/BBAppDelegate.m
